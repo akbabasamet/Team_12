@@ -58,6 +58,8 @@ public class printEvenNumbers {
 //        for (int i = 0; i <=maxNum ; i+=2) {
 //            System.out.print(i);
 //        }
+        System.out.println("********");
+
 
 
     }
