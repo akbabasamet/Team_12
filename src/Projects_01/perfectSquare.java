@@ -58,6 +58,7 @@ public class perfectSquare {
 
         //  code Start here don't change before this line
         // kodu burdan başlatın ve bu satırdan önceki kodları değiştirmeyin
+        System.out.println("firdevs");
 
     }
 
