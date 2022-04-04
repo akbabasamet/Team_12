@@ -51,7 +51,7 @@ public class age {
         //System.out.println("too young to drink alcohol");
 
         // kodu burdan baslatin ve bu satirdan onceki kodlari degistirmeyin
-        System.out.println("hello");
+        System.out.println("hello0000ooo");
 
 
     }
